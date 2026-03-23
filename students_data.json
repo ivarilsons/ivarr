@@ -1,0 +1,3333 @@
+[
+  {
+    "cne": "N135035397",
+    "cin": "CD973522",
+    "email": "amina.aamrani@usmba.ac.ma",
+    "nom": "AAMRANI AMINA",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N135035397.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "511.48Validé",
+        "moyenne": "11.48",
+        "etat": "Validé"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "55.50Rattrapage",
+        "moyenne": "5.50",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "510.00Validé",
+        "moyenne": "10.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "56.87Rattrapage",
+        "moyenne": "6.87",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "516.87Validé",
+        "moyenne": "16.87",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "514.80Validé",
+        "moyenne": "14.80",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "517.00Validé",
+        "moyenne": "17.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "S139155212",
+    "cin": "ZH18787",
+    "email": "adnane.abdli@usmba.ac.ma",
+    "nom": "ABDLI ADNANE",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/S139155212.jpg",
+    "notes": [
+      {
+        "module": "Probabilités et statistiques",
+        "semestre": "318.00Validé",
+        "moyenne": "18.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Architecture des ordinateurs",
+        "semestre": "315.60Validé",
+        "moyenne": "15.60",
+        "etat": "Validé"
+      },
+      {
+        "module": "Système d'exploitation 1",
+        "semestre": "311.00Validé",
+        "moyenne": "11.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Programmation Objet UML",
+        "semestre": "320.00Validé",
+        "moyenne": "20.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Langues",
+        "semestre": "36.50Rattrapage",
+        "moyenne": "6.50",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "513.70Validé",
+        "moyenne": "13.70",
+        "etat": "Validé"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "512.50Validé",
+        "moyenne": "12.50",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N146071341",
+    "cin": "CD945451",
+    "email": "sohayb.aboudar@usmba.ac.ma",
+    "nom": "ABOUDAR SOHAYB",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N146071341.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "512.77Validé",
+        "moyenne": "12.77",
+        "etat": "Validé"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "511.00Validé",
+        "moyenne": "11.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "57.87Rattrapage",
+        "moyenne": "7.87",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "515.87Validé",
+        "moyenne": "15.87",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "516.12Validé",
+        "moyenne": "16.12",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "513.00Validé",
+        "moyenne": "13.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "520.00Validé",
+        "moyenne": "20.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N120044685",
+    "cin": "CD629131",
+    "email": "fatimazahra.abrouq@usmba.ac.ma",
+    "nom": "ABROUQ FATIMA ZAHRA",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N120044685.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "513.52Validé",
+        "moyenne": "13.52",
+        "etat": "Validé"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "56.87Rattrapage",
+        "moyenne": "6.87",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "55.31Rattrapage",
+        "moyenne": "5.31",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "512.50Validé",
+        "moyenne": "12.50",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "515.37Validé",
+        "moyenne": "15.37",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "514.10Validé",
+        "moyenne": "14.10",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "514.00Validé",
+        "moyenne": "14.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N135277218",
+    "cin": "CD784545",
+    "email": "youssef.achbar@usmba.ac.ma",
+    "nom": "ACHBAR YOUSSEF",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N135277218.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "54.04Rattrapage",
+        "moyenne": "4.04",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "57.62Rattrapage",
+        "moyenne": "7.62",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "513.68Validé",
+        "moyenne": "13.68",
+        "etat": "Validé"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "511.75Validé",
+        "moyenne": "11.75",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "54.12Rattrapage",
+        "moyenne": "4.12",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "53.30Rattrapage",
+        "moyenne": "3.30",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "516.00Validé",
+        "moyenne": "16.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "S133260695",
+    "cin": "ZT315416",
+    "email": "reda.alalach@usmba.ac.ma",
+    "nom": "ALALACH REDA",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/S133260695.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "517.46Validé",
+        "moyenne": "17.46",
+        "etat": "Validé"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "58.61Rattrapage",
+        "moyenne": "8.61",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "512.31Validé",
+        "moyenne": "12.31",
+        "etat": "Validé"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "514.50Validé",
+        "moyenne": "14.50",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "515.50Validé",
+        "moyenne": "15.50",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "514.40Validé",
+        "moyenne": "14.40",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "515.00Validé",
+        "moyenne": "15.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "S147054072",
+    "cin": "CD965404",
+    "email": "chadia.alami@usmba.ac.ma",
+    "nom": "ALAMI CHADIA",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/S147054072.jpg",
+    "notes": [
+      {
+        "module": "Probabilités et statistiques",
+        "semestre": "36.75Rattrapage",
+        "moyenne": "6.75",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Architecture des ordinateurs",
+        "semestre": "32.40Rattrapage",
+        "moyenne": "2.40",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Système d'exploitation 1",
+        "semestre": "313.26Validé",
+        "moyenne": "13.26",
+        "etat": "Validé"
+      },
+      {
+        "module": "Programmation web 1",
+        "semestre": "38.43Rattrapage",
+        "moyenne": "8.43",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Objet UML",
+        "semestre": "310.25Validé",
+        "moyenne": "10.25",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "50.00AbsentAbsence en TP et en CFRéclamer",
+        "moyenne": "0.00",
+        "etat": "Absent"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "518.00Validé",
+        "moyenne": "18.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N148065379",
+    "cin": "CD965559",
+    "email": "adam.anouar@usmba.ac.ma",
+    "nom": "ANOUAR ADAM",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N148065379.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "55.37Rattrapage",
+        "moyenne": "5.37",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "54.12Rattrapage",
+        "moyenne": "4.12",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "56.50Rattrapage",
+        "moyenne": "6.50",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "513.50Validé",
+        "moyenne": "13.50",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "515.12Validé",
+        "moyenne": "15.12",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "514.20Validé",
+        "moyenne": "14.20",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "520.00Validé",
+        "moyenne": "20.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N130042376",
+    "cin": "CD787319",
+    "email": "mohamed.belfakih@usmba.ac.ma",
+    "nom": "BEL- FAKIH MOHAMED",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N130042376.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "515.21Validé",
+        "moyenne": "15.21",
+        "etat": "Validé"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "55.87Rattrapage",
+        "moyenne": "5.87",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "512.25Validé",
+        "moyenne": "12.25",
+        "etat": "Validé"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "514.50Validé",
+        "moyenne": "14.50",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "516.87Validé",
+        "moyenne": "16.87",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "513.40Validé",
+        "moyenne": "13.40",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "517.00Validé",
+        "moyenne": "17.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N139362813",
+    "cin": "CD619128",
+    "email": "ghita.bouanane@usmba.ac.ma",
+    "nom": "BOUANANE GHITA",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N139362813.jpg",
+    "notes": [
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "54.50Rattrapage",
+        "moyenne": "4.50",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "511.00Validé",
+        "moyenne": "11.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "514.00Validé",
+        "moyenne": "14.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "515.30Validé",
+        "moyenne": "15.30",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "520.00Validé",
+        "moyenne": "20.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N136036981",
+    "cin": "CD445648",
+    "email": "ahmed.bourqia@usmba.ac.ma",
+    "nom": "BOURQIA AHMED",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N136036981.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "54.66Rattrapage",
+        "moyenne": "4.66",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "57.87Rattrapage",
+        "moyenne": "7.87",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "54.25Rattrapage",
+        "moyenne": "4.25",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "513.50Validé",
+        "moyenne": "13.50",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "515.37Validé",
+        "moyenne": "15.37",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "511.20Validé",
+        "moyenne": "11.20",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "517.00Validé",
+        "moyenne": "17.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N134376647",
+    "cin": "CD446587",
+    "email": "sara.chakir@usmba.ac.ma",
+    "nom": "CHAKIR SARA",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N134376647.jpg",
+    "notes": [
+      {
+        "module": "Probabilités et statistiques",
+        "semestre": "30.00Rattrapage",
+        "moyenne": "0.00",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Système d'exploitation 1",
+        "semestre": "33.54Rattrapage",
+        "moyenne": "3.54",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation web 1",
+        "semestre": "33.00Rattrapage",
+        "moyenne": "3.00",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "53.50Rattrapage",
+        "moyenne": "3.50",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "515.12Validé",
+        "moyenne": "15.12",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "55.20Rattrapage",
+        "moyenne": "5.20",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "519.00Validé",
+        "moyenne": "19.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "513.37Validé",
+        "moyenne": "13.37",
+        "etat": "Validé"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "53.75Rattrapage",
+        "moyenne": "3.75",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "53.21Rattrapage",
+        "moyenne": "3.21",
+        "etat": "Rattrapage"
+      }
+    ]
+  },
+  {
+    "cne": "N139081707",
+    "cin": "CD797809",
+    "email": "hajar.charbak@usmba.ac.ma",
+    "nom": "CHARBAK HAJAR",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N139081707.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "53.50Rattrapage",
+        "moyenne": "3.50",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "56.50Rattrapage",
+        "moyenne": "6.50",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "512.62Validé",
+        "moyenne": "12.62",
+        "etat": "Validé"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "59.50Rattrapage",
+        "moyenne": "9.50",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "515.12Validé",
+        "moyenne": "15.12",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "59.50Rattrapage",
+        "moyenne": "9.50",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "519.00Validé",
+        "moyenne": "19.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N136032694",
+    "cin": "CD960773",
+    "email": "ali.chliyah@usmba.ac.ma",
+    "nom": "CHLIYAH ALI",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N136032694.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "512.91Validé",
+        "moyenne": "12.91",
+        "etat": "Validé"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "53.75Rattrapage",
+        "moyenne": "3.75",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "517.50Validé",
+        "moyenne": "17.50",
+        "etat": "Validé"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "53.50Rattrapage",
+        "moyenne": "3.50",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "516.75Validé",
+        "moyenne": "16.75",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "516.50Validé",
+        "moyenne": "16.50",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "520.00Validé",
+        "moyenne": "20.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N120081254",
+    "cin": "CD499476",
+    "email": "youness.chouika@usmba.ac.ma",
+    "nom": "CHOUIKA YOUNESS",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N120081254.jpg",
+    "notes": [
+      {
+        "module": "Probabilités et statistiques",
+        "semestre": "315.25Validé",
+        "moyenne": "15.25",
+        "etat": "Validé"
+      },
+      {
+        "module": "Architecture des ordinateurs",
+        "semestre": "314.80Validé",
+        "moyenne": "14.80",
+        "etat": "Validé"
+      },
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "54.87Rattrapage",
+        "moyenne": "4.87",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "53.75Rattrapage",
+        "moyenne": "3.75",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "513.87Validé",
+        "moyenne": "13.87",
+        "etat": "Validé"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "512.50Validé",
+        "moyenne": "12.50",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "515.00Validé",
+        "moyenne": "15.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "513.20Validé",
+        "moyenne": "13.20",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "518.00Validé",
+        "moyenne": "18.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N133372735",
+    "cin": "CD359184",
+    "email": "mohammed.dani@usmba.ac.ma",
+    "nom": "DANI MOHAMMED",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N133372735.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "53.33Rattrapage",
+        "moyenne": "3.33",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "58.11Rattrapage",
+        "moyenne": "8.11",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "512.37Validé",
+        "moyenne": "12.37",
+        "etat": "Validé"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "53.50Rattrapage",
+        "moyenne": "3.50",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "515.75Validé",
+        "moyenne": "15.75",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "512.50Validé",
+        "moyenne": "12.50",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "515.00Validé",
+        "moyenne": "15.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "S132057001",
+    "cin": "Z663740",
+    "email": "saida.dine@usmba.ac.ma",
+    "nom": "DINE SAIDA",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/S132057001.jpg",
+    "notes": [
+      {
+        "module": "Analyse 1",
+        "semestre": "13.50Rattrapage",
+        "moyenne": "3.50",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Probabilités et statistiques",
+        "semestre": "315.75Validé",
+        "moyenne": "15.75",
+        "etat": "Validé"
+      },
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "54.66Rattrapage",
+        "moyenne": "4.66",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "54.25Rattrapage",
+        "moyenne": "4.25",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "56.37Rattrapage",
+        "moyenne": "6.37",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "511.75Validé",
+        "moyenne": "11.75",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "517.25Validé",
+        "moyenne": "17.25",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "55.00Rattrapage",
+        "moyenne": "5.00",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "520.00Validé",
+        "moyenne": "20.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "USMBA22130",
+    "cin": "A03209892",
+    "email": "khoudiedji.drame@usmba.ac.ma",
+    "nom": "DRAME KHOUDIEDJI",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/USMBA22130.jpg",
+    "notes": [
+      {
+        "module": "Probabilités et statistiques",
+        "semestre": "318.75Validé",
+        "moyenne": "18.75",
+        "etat": "Validé"
+      },
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "59.16Rattrapage",
+        "moyenne": "9.16",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "55.37Rattrapage",
+        "moyenne": "5.37",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "59.75Rattrapage",
+        "moyenne": "9.75",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "511.00Validé",
+        "moyenne": "11.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "514.37Validé",
+        "moyenne": "14.37",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "513.30Validé",
+        "moyenne": "13.30",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "515.00Validé",
+        "moyenne": "15.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "S133294504",
+    "cin": "ZT350799",
+    "email": "nabila.echriti@usmba.ac.ma",
+    "nom": "ECHRITI NABILA",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/S133294504.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "54.50Rattrapage",
+        "moyenne": "4.50",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "52.75Rattrapage",
+        "moyenne": "2.75",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "512.75Validé",
+        "moyenne": "12.75",
+        "etat": "Validé"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "519.00Validé",
+        "moyenne": "19.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "514.00Validé",
+        "moyenne": "14.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "515.00Validé",
+        "moyenne": "15.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "516.50Validé",
+        "moyenne": "16.50",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N130005118",
+    "cin": "ZT350799",
+    "email": "radouane.eddaouy@usmba.ac.ma",
+    "nom": "",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N130005118.jpg",
+    "notes": []
+  },
+  {
+    "cne": "N143058131",
+    "cin": "CD618446",
+    "email": "nada.elbakhiri@usmba.ac.ma",
+    "nom": "EL BAKHIRI NADA",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N143058131.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "54.62Rattrapage",
+        "moyenne": "4.62",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "55.75Rattrapage",
+        "moyenne": "5.75",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "58.43Rattrapage",
+        "moyenne": "8.43",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "517.25Validé",
+        "moyenne": "17.25",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "517.62Validé",
+        "moyenne": "17.62",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "517.10Validé",
+        "moyenne": "17.10",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "520.00Validé",
+        "moyenne": "20.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N139102630",
+    "cin": "CN60604",
+    "email": "mouslime.elbouknify@usmba.ac.ma",
+    "nom": "EL  BOUKNIFY MOUSLIME",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N139102630.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "53.83Rattrapage",
+        "moyenne": "3.83",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "53.75Rattrapage",
+        "moyenne": "3.75",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "54.50Rattrapage",
+        "moyenne": "4.50",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "512.50Validé",
+        "moyenne": "12.50",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "516.62Validé",
+        "moyenne": "16.62",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "510.70Validé",
+        "moyenne": "10.70",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "518.00Validé",
+        "moyenne": "18.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N135189887",
+    "cin": "CD244674",
+    "email": "widad.elbourkadi@usmba.ac.ma",
+    "nom": "EL BOURKADI WIDAD",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N135189887.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "59.28Rattrapage",
+        "moyenne": "9.28",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "57.50Rattrapage",
+        "moyenne": "7.50",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "59.75Rattrapage",
+        "moyenne": "9.75",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "53.50Rattrapage",
+        "moyenne": "3.50",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "515.75Validé",
+        "moyenne": "15.75",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "54.90Rattrapage",
+        "moyenne": "4.90",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "520.00Validé",
+        "moyenne": "20.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N120079068",
+    "cin": "CD629810",
+    "email": "nada.elfarssi@usmba.ac.ma",
+    "nom": "EL FARSSI NADA",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N120079068.jpg",
+    "notes": [
+      {
+        "module": "Probabilités et statistiques",
+        "semestre": "310.75Validé",
+        "moyenne": "10.75",
+        "etat": "Validé"
+      },
+      {
+        "module": "Programmation Objet UML",
+        "semestre": "320.00Validé",
+        "moyenne": "20.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Langues",
+        "semestre": "313.00Validé",
+        "moyenne": "13.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "517.25Validé",
+        "moyenne": "17.25",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "516.50Validé",
+        "moyenne": "16.50",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "513.90Validé",
+        "moyenne": "13.90",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "519.00Validé",
+        "moyenne": "19.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "510.43Validé",
+        "moyenne": "10.43",
+        "etat": "Validé"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "57.75Rattrapage",
+        "moyenne": "7.75",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "53.62Rattrapage",
+        "moyenne": "3.62",
+        "etat": "Rattrapage"
+      }
+    ]
+  },
+  {
+    "cne": "N145042260",
+    "cin": "CD959659",
+    "email": "yassine.elgadi@usmba.ac.ma",
+    "nom": "EL GADI YASSINE",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N145042260.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "516.00Validé",
+        "moyenne": "16.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "511.50Validé",
+        "moyenne": "11.50",
+        "etat": "Validé"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "511.56Validé",
+        "moyenne": "11.56",
+        "etat": "Validé"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "53.50Rattrapage",
+        "moyenne": "3.50",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "515.87Validé",
+        "moyenne": "15.87",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "510.80Validé",
+        "moyenne": "10.80",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "514.00Validé",
+        "moyenne": "14.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N140027001",
+    "cin": "CD959659",
+    "email": "sara.elhadrachi@usmba.ac.ma",
+    "nom": "",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N140027001.jpg",
+    "notes": []
+  },
+  {
+    "cne": "S135231117",
+    "cin": "ZH8356",
+    "email": "wiam.elhaigoun@usmba.ac.ma",
+    "nom": "EL HAIGOUN WIAM",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/S135231117.jpg",
+    "notes": [
+      {
+        "module": "Probabilités et statistiques",
+        "semestre": "318.50Validé",
+        "moyenne": "18.50",
+        "etat": "Validé"
+      },
+      {
+        "module": "Architecture des ordinateurs",
+        "semestre": "35.60Rattrapage",
+        "moyenne": "5.60",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Système d'exploitation 1",
+        "semestre": "312.10Validé",
+        "moyenne": "12.10",
+        "etat": "Validé"
+      },
+      {
+        "module": "Programmation Objet UML",
+        "semestre": "314.90Validé",
+        "moyenne": "14.90",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "57.75Rattrapage",
+        "moyenne": "7.75",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "512.40Validé",
+        "moyenne": "12.40",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "516.00Validé",
+        "moyenne": "16.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "512.50Validé",
+        "moyenne": "12.50",
+        "etat": "Validé"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "55.81Rattrapage",
+        "moyenne": "5.81",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "57.12Rattrapage",
+        "moyenne": "7.12",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "53.33Rattrapage",
+        "moyenne": "3.33",
+        "etat": "Rattrapage"
+      }
+    ]
+  },
+  {
+    "cne": "S132092726",
+    "cin": "RC54903",
+    "email": "mohamed.elhaik@usmba.ac.ma",
+    "nom": "EL HAIK MOHAMED",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/S132092726.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "55.58Rattrapage",
+        "moyenne": "5.58",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "58.36Rattrapage",
+        "moyenne": "8.36",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "516.50Validé",
+        "moyenne": "16.50",
+        "etat": "Validé"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "58.36Rattrapage",
+        "moyenne": "8.36",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "517.25Validé",
+        "moyenne": "17.25",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "515.50Validé",
+        "moyenne": "15.50",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "516.00Validé",
+        "moyenne": "16.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N120048222",
+    "cin": "CD167953",
+    "email": "houria.elhayani@usmba.ac.ma",
+    "nom": "EL HAYANI HOURIA",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N120048222.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "54.37Rattrapage",
+        "moyenne": "4.37",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "57.62Rattrapage",
+        "moyenne": "7.62",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "510.00Validé",
+        "moyenne": "10.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "519.00Validé",
+        "moyenne": "19.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "517.62Validé",
+        "moyenne": "17.62",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "514.70Validé",
+        "moyenne": "14.70",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "520.00Validé",
+        "moyenne": "20.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "S134270394",
+    "cin": "ZT327407",
+    "email": "hicham.elkhamlichi@usmba.ac.ma",
+    "nom": "EL KHAMLICHI HICHAM",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/S134270394.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "54.12Rattrapage",
+        "moyenne": "4.12",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "58.25Rattrapage",
+        "moyenne": "8.25",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "54.43Rattrapage",
+        "moyenne": "4.43",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "515.25Validé",
+        "moyenne": "15.25",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "55.50Rattrapage",
+        "moyenne": "5.50",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "513.10Validé",
+        "moyenne": "13.10",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "516.00Validé",
+        "moyenne": "16.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N136360011",
+    "cin": "CD927638",
+    "email": "ilyas.elmaqhor@usmba.ac.ma",
+    "nom": "EL MAQHOR ILYAS",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N136360011.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "53.87Rattrapage",
+        "moyenne": "3.87",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "57.12Rattrapage",
+        "moyenne": "7.12",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "53.75Rattrapage",
+        "moyenne": "3.75",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "512.50Validé",
+        "moyenne": "12.50",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "516.37Validé",
+        "moyenne": "16.37",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "512.50Validé",
+        "moyenne": "12.50",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "517.00Validé",
+        "moyenne": "17.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N120007192",
+    "cin": "CD707308",
+    "email": "hafsa.elmeskin@usmba.ac.ma",
+    "nom": "EL MESKIN HAFSA",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N120007192.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "54.16Rattrapage",
+        "moyenne": "4.16",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "55.00Rattrapage",
+        "moyenne": "5.00",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "55.37Rattrapage",
+        "moyenne": "5.37",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "512.50Validé",
+        "moyenne": "12.50",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "515.37Validé",
+        "moyenne": "15.37",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "511.50Validé",
+        "moyenne": "11.50",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "518.00Validé",
+        "moyenne": "18.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N133089257",
+    "cin": "CD669870",
+    "email": "oumayma.elmeskini@usmba.ac.ma",
+    "nom": "EL MESKINI OUMAYMA",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N133089257.jpg",
+    "notes": [
+      {
+        "module": "Probabilités et statistiques",
+        "semestre": "318.75Validé",
+        "moyenne": "18.75",
+        "etat": "Validé"
+      },
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "57.56Rattrapage",
+        "moyenne": "7.56",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "57.87Rattrapage",
+        "moyenne": "7.87",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "56.00Rattrapage",
+        "moyenne": "6.00",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "58.75Rattrapage",
+        "moyenne": "8.75",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "513.00Validé",
+        "moyenne": "13.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "511.70Validé",
+        "moyenne": "11.70",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "517.00Validé",
+        "moyenne": "17.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N133144834",
+    "cin": "CD669870",
+    "email": "ikram.elmghari@usmba.ac.ma",
+    "nom": "",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N133144834.jpg",
+    "notes": []
+  },
+  {
+    "cne": "N137064393",
+    "cin": "CN59429",
+    "email": "hamza.elomari@usmba.ac.ma",
+    "nom": "EL OMARI HAMZA",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N137064393.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "513.89Validé",
+        "moyenne": "13.89",
+        "etat": "Validé"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "57.12Rattrapage",
+        "moyenne": "7.12",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "511.68Validé",
+        "moyenne": "11.68",
+        "etat": "Validé"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "516.25Validé",
+        "moyenne": "16.25",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "55.62Rattrapage",
+        "moyenne": "5.62",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "513.40Validé",
+        "moyenne": "13.40",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "516.50Validé",
+        "moyenne": "16.50",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N147010242",
+    "cin": "CD617806",
+    "email": "abderrahmane.elqayedy@usmba.ac.ma",
+    "nom": "EL QAYEDY ABDERRAHMANE",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N147010242.jpg",
+    "notes": [
+      {
+        "module": "Probabilités et statistiques",
+        "semestre": "318.25Validé",
+        "moyenne": "18.25",
+        "etat": "Validé"
+      },
+      {
+        "module": "Programmation Objet UML",
+        "semestre": "318.57Validé",
+        "moyenne": "18.57",
+        "etat": "Validé"
+      },
+      {
+        "module": "Langues",
+        "semestre": "313.00Validé",
+        "moyenne": "13.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "513.50Validé",
+        "moyenne": "13.50",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "516.12Validé",
+        "moyenne": "16.12",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "513.80Validé",
+        "moyenne": "13.80",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "519.00Validé",
+        "moyenne": "19.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "516.68Validé",
+        "moyenne": "16.68",
+        "etat": "Validé"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "59.75Rattrapage",
+        "moyenne": "9.75",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "53.91Rattrapage",
+        "moyenne": "3.91",
+        "etat": "Rattrapage"
+      }
+    ]
+  },
+  {
+    "cne": "N141068837",
+    "cin": "CD617806",
+    "email": "mohamed.elyousfi@usmba.ac.ma",
+    "nom": "",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N141068837.jpg",
+    "notes": []
+  },
+  {
+    "cne": "N134283830",
+    "cin": "CD617806",
+    "email": "youssef.elaji@usmba.ac.ma",
+    "nom": "",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N134283830.jpg",
+    "notes": []
+  },
+  {
+    "cne": "S148043113",
+    "cin": "ZT318989",
+    "email": "abdelhakim.elasfar@usmba.ac.ma",
+    "nom": "ELASFAR ABDELHAKIM",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/S148043113.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "58.86Rattrapage",
+        "moyenne": "8.86",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "59.61Rattrapage",
+        "moyenne": "9.61",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "57.12Rattrapage",
+        "moyenne": "7.12",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "511.75Validé",
+        "moyenne": "11.75",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "514.25Validé",
+        "moyenne": "14.25",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "514.10Validé",
+        "moyenne": "14.10",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "515.00Validé",
+        "moyenne": "15.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "S131359101",
+    "cin": "ZT327449",
+    "email": "omar.elbransi@usmba.ac.ma",
+    "nom": "EL-BRANSI OMAR",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/S131359101.jpg",
+    "notes": [
+      {
+        "module": "Probabilités et statistiques",
+        "semestre": "319.25Validé",
+        "moyenne": "19.25",
+        "etat": "Validé"
+      },
+      {
+        "module": "Architecture des ordinateurs",
+        "semestre": "316.20Validé",
+        "moyenne": "16.20",
+        "etat": "Validé"
+      },
+      {
+        "module": "Système d'exploitation 1",
+        "semestre": "315.29Validé",
+        "moyenne": "15.29",
+        "etat": "Validé"
+      },
+      {
+        "module": "Programmation web 1",
+        "semestre": "314.87Validé",
+        "moyenne": "14.87",
+        "etat": "Validé"
+      },
+      {
+        "module": "Programmation Objet UML",
+        "semestre": "312.41Validé",
+        "moyenne": "12.41",
+        "etat": "Validé"
+      },
+      {
+        "module": "Langues",
+        "semestre": "37.50Rattrapage",
+        "moyenne": "7.50",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "513.50Validé",
+        "moyenne": "13.50",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N134248320",
+    "cin": "ZT327449",
+    "email": "hamza.elouazzani@usmba.ac.ma",
+    "nom": "",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N134248320.jpg",
+    "notes": []
+  },
+  {
+    "cne": "N149023122",
+    "cin": "CD960484",
+    "email": "abdelmonim.elqoraychy@usmba.ac.ma",
+    "nom": "EL-QORAYCHY ABDELMONIM",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N149023122.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "512.25Validé",
+        "moyenne": "12.25",
+        "etat": "Validé"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "510.11Validé",
+        "moyenne": "10.11",
+        "etat": "Validé"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "56.75Rattrapage",
+        "moyenne": "6.75",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "514.00Validé",
+        "moyenne": "14.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "514.25Validé",
+        "moyenne": "14.25",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "512.90Validé",
+        "moyenne": "12.90",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "516.00Validé",
+        "moyenne": "16.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N138064466",
+    "cin": "CD960484",
+    "email": "imane.essalmi@usmba.ac.ma",
+    "nom": "",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N138064466.jpg",
+    "notes": []
+  },
+  {
+    "cne": "N120061774",
+    "cin": "CD749318",
+    "email": "adil.fadloullah@usmba.ac.ma",
+    "nom": "FADLOULLAH ADIL",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N120061774.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "511.56Validé",
+        "moyenne": "11.56",
+        "etat": "Validé"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "54.50Rattrapage",
+        "moyenne": "4.50",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "510.00Validé",
+        "moyenne": "10.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "515.75Validé",
+        "moyenne": "15.75",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "517.00Validé",
+        "moyenne": "17.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "515.00Validé",
+        "moyenne": "15.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "513.00Validé",
+        "moyenne": "13.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N139360105",
+    "cin": "CD793222",
+    "email": "amina.fouass@usmba.ac.ma",
+    "nom": "FOUASS AMINA",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N139360105.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "514.18Validé",
+        "moyenne": "14.18",
+        "etat": "Validé"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "511.25Validé",
+        "moyenne": "11.25",
+        "etat": "Validé"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "513.93Validé",
+        "moyenne": "13.93",
+        "etat": "Validé"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "519.00Validé",
+        "moyenne": "19.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "517.62Validé",
+        "moyenne": "17.62",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "514.60Validé",
+        "moyenne": "14.60",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "520.00Validé",
+        "moyenne": "20.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "USMBA22040",
+    "cin": "CD793222",
+    "email": "saifalislam.hamanibourema@usmba.ac.ma",
+    "nom": "",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/USMBA22040.jpg",
+    "notes": []
+  },
+  {
+    "cne": "S148034747",
+    "cin": "CD799871",
+    "email": "bilal.hanini@usmba.ac.ma",
+    "nom": "",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/S148034747.jpg",
+    "notes": []
+  },
+  {
+    "cne": "N142066015",
+    "cin": "CD757534",
+    "email": "hibatallah.hassani@usmba.ac.ma",
+    "nom": "HASSANI HIBAT-ALLAH",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N142066015.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "54.05Rattrapage",
+        "moyenne": "4.05",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "58.00Rattrapage",
+        "moyenne": "8.00",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "56.56Rattrapage",
+        "moyenne": "6.56",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "515.75Validé",
+        "moyenne": "15.75",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "514.25Validé",
+        "moyenne": "14.25",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "54.70Rattrapage",
+        "moyenne": "4.70",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "516.00Validé",
+        "moyenne": "16.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "S130200657",
+    "cin": "CD757534",
+    "email": "mohamed.hmamouchi@usmba.ac.ma",
+    "nom": "",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/S130200657.jpg",
+    "notes": []
+  },
+  {
+    "cne": "N133359687",
+    "cin": "CD960601",
+    "email": "aya.hommani@usmba.ac.ma",
+    "nom": "HOMMANI AYA",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N133359687.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "517.18Validé",
+        "moyenne": "17.18",
+        "etat": "Validé"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "510.37Validé",
+        "moyenne": "10.37",
+        "etat": "Validé"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "514.75Validé",
+        "moyenne": "14.75",
+        "etat": "Validé"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "517.25Validé",
+        "moyenne": "17.25",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "517.25Validé",
+        "moyenne": "17.25",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "516.00Validé",
+        "moyenne": "16.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "520.00Validé",
+        "moyenne": "20.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N131312492",
+    "cin": "CD787216",
+    "email": "badreddine.issaouballah@usmba.ac.ma",
+    "nom": "ISSAOUBALLAH BADREDDINE",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N131312492.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "56.00Rattrapage",
+        "moyenne": "6.00",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "56.87Rattrapage",
+        "moyenne": "6.87",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "56.62Rattrapage",
+        "moyenne": "6.62",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "56.50Rattrapage",
+        "moyenne": "6.50",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "513.62Validé",
+        "moyenne": "13.62",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "511.30Validé",
+        "moyenne": "11.30",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "513.00Validé",
+        "moyenne": "13.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "S135194496",
+    "cin": "ZT327304",
+    "email": "anoir.jgouta@usmba.ac.ma",
+    "nom": "JGOUTA ANOIR",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/S135194496.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "58.86Rattrapage",
+        "moyenne": "8.86",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "54.62Rattrapage",
+        "moyenne": "4.62",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "510.87Validé",
+        "moyenne": "10.87",
+        "etat": "Validé"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "54.25Rattrapage",
+        "moyenne": "4.25",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "516.50Validé",
+        "moyenne": "16.50",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "514.40Validé",
+        "moyenne": "14.40",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "512.00Validé",
+        "moyenne": "12.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "S139297392",
+    "cin": "ZT317159",
+    "email": "sabir.kaddouri@usmba.ac.ma",
+    "nom": "KADDOURI SABIR",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/S139297392.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "518.00Validé",
+        "moyenne": "18.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "510.25Validé",
+        "moyenne": "10.25",
+        "etat": "Validé"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "517.50Validé",
+        "moyenne": "17.50",
+        "etat": "Validé"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "517.62Validé",
+        "moyenne": "17.62",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "516.62Validé",
+        "moyenne": "16.62",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "515.10Validé",
+        "moyenne": "15.10",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "513.00Validé",
+        "moyenne": "13.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N135362922",
+    "cin": "CD958515",
+    "email": "imane.kassimi@usmba.ac.ma",
+    "nom": "KASSIMI IMANE",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N135362922.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "516.91Validé",
+        "moyenne": "16.91",
+        "etat": "Validé"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "59.75Rattrapage",
+        "moyenne": "9.75",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "513.87Validé",
+        "moyenne": "13.87",
+        "etat": "Validé"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "513.50Validé",
+        "moyenne": "13.50",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "516.87Validé",
+        "moyenne": "16.87",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "513.50Validé",
+        "moyenne": "13.50",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "519.00Validé",
+        "moyenne": "19.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "USMBA22030",
+    "cin": "CD958515",
+    "email": "aboubacar.keita@usmba.ac.ma",
+    "nom": "",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/USMBA22030.jpg",
+    "notes": []
+  },
+  {
+    "cne": "N134112058",
+    "cin": "CD447138",
+    "email": "omar.lebrimchi@usmba.ac.ma",
+    "nom": "LEBRIMCHI OMAR",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N134112058.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "53.41Rattrapage",
+        "moyenne": "3.41",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "54.62Rattrapage",
+        "moyenne": "4.62",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "56.62Rattrapage",
+        "moyenne": "6.62",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "54.25Rattrapage",
+        "moyenne": "4.25",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "512.12Validé",
+        "moyenne": "12.12",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "511.70Validé",
+        "moyenne": "11.70",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "511.00Validé",
+        "moyenne": "11.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N130206596",
+    "cin": "CD356623",
+    "email": "fatimazahrae.maghraoui@usmba.ac.ma",
+    "nom": "MAGHRAOUI FATIMA-ZAHRAE",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N130206596.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "54.54Rattrapage",
+        "moyenne": "4.54",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "57.37Rattrapage",
+        "moyenne": "7.37",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "512.06Validé",
+        "moyenne": "12.06",
+        "etat": "Validé"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "514.37Validé",
+        "moyenne": "14.37",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "516.12Validé",
+        "moyenne": "16.12",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "515.30Validé",
+        "moyenne": "15.30",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "513.00Validé",
+        "moyenne": "13.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N131086085",
+    "cin": "CD356623",
+    "email": "ihssane.maghraoui@usmba.ac.ma",
+    "nom": "",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N131086085.jpg",
+    "notes": []
+  },
+  {
+    "cne": "N138126200",
+    "cin": "CD706649",
+    "email": "wissal.magouri@usmba.ac.ma",
+    "nom": "MAGOURI WISSAL",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N138126200.jpg",
+    "notes": [
+      {
+        "module": "Mécanique du point",
+        "semestre": "10.00AbsentAbsence en  TPRéclamer",
+        "moyenne": "0.00",
+        "etat": "Absent"
+      },
+      {
+        "module": "Thermodynamique",
+        "semestre": "15.70Rattrapage",
+        "moyenne": "5.70",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "58.36Rattrapage",
+        "moyenne": "8.36",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "515.00Validé",
+        "moyenne": "15.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "510.40Validé",
+        "moyenne": "10.40",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "519.00Validé",
+        "moyenne": "19.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "50.00AbsentAbsence en TP et en CFRéclamer",
+        "moyenne": "0.00",
+        "etat": "Absent"
+      }
+    ]
+  },
+  {
+    "cne": "N147022667",
+    "cin": "CD797707",
+    "email": "souad.mamouni@usmba.ac.ma",
+    "nom": "MAMOUNI SOUAD",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N147022667.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "513.81Validé",
+        "moyenne": "13.81",
+        "etat": "Validé"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "54.37Rattrapage",
+        "moyenne": "4.37",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "56.81Rattrapage",
+        "moyenne": "6.81",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "518.00Validé",
+        "moyenne": "18.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "514.75Validé",
+        "moyenne": "14.75",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "514.00Validé",
+        "moyenne": "14.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "511.00Validé",
+        "moyenne": "11.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N134380780",
+    "cin": "CD935079",
+    "email": "saad.mouncif@usmba.ac.ma",
+    "nom": "MOUNCIF SAAD",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N134380780.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "59.25Rattrapage",
+        "moyenne": "9.25",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "57.87Rattrapage",
+        "moyenne": "7.87",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "55.68Rattrapage",
+        "moyenne": "5.68",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "517.25Validé",
+        "moyenne": "17.25",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "516.25Validé",
+        "moyenne": "16.25",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "514.90Validé",
+        "moyenne": "14.90",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "519.00Validé",
+        "moyenne": "19.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "F110037827",
+    "cin": "W463362",
+    "email": "khaoula.najjari@usmba.ac.ma",
+    "nom": "NAJJARI KHAOULA",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/F110037827.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "513.06Validé",
+        "moyenne": "13.06",
+        "etat": "Validé"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "510.62Validé",
+        "moyenne": "10.62",
+        "etat": "Validé"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "517.43Validé",
+        "moyenne": "17.43",
+        "etat": "Validé"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "515.00Validé",
+        "moyenne": "15.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "516.50Validé",
+        "moyenne": "16.50",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "514.20Validé",
+        "moyenne": "14.20",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "519.00Validé",
+        "moyenne": "19.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N120012429",
+    "cin": "CD967761",
+    "email": "hajar.nhily@usmba.ac.ma",
+    "nom": "NHILY HAJAR",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N120012429.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "52.54Rattrapage",
+        "moyenne": "2.54",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "55.00Rattrapage",
+        "moyenne": "5.00",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "59.93Rattrapage",
+        "moyenne": "9.93",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "513.62Validé",
+        "moyenne": "13.62",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "513.75Validé",
+        "moyenne": "13.75",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "511.40Validé",
+        "moyenne": "11.40",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "519.00Validé",
+        "moyenne": "19.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N145039437",
+    "cin": "CD963251",
+    "email": "ghita.niame@usmba.ac.ma",
+    "nom": "NIAME GHITA",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N145039437.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "58.39Rattrapage",
+        "moyenne": "8.39",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "54.25Rattrapage",
+        "moyenne": "4.25",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "57.81Rattrapage",
+        "moyenne": "7.81",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "513.62Validé",
+        "moyenne": "13.62",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "515.37Validé",
+        "moyenne": "15.37",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "512.70Validé",
+        "moyenne": "12.70",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "520.00Validé",
+        "moyenne": "20.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N133200547",
+    "cin": "CD457574",
+    "email": "ibtissam.ouardi@usmba.ac.ma",
+    "nom": "OUARDI IBTISSAM",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N133200547.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "516.37Validé",
+        "moyenne": "16.37",
+        "etat": "Validé"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "57.62Rattrapage",
+        "moyenne": "7.62",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "512.87Validé",
+        "moyenne": "12.87",
+        "etat": "Validé"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "518.62Validé",
+        "moyenne": "18.62",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "517.62Validé",
+        "moyenne": "17.62",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "515.40Validé",
+        "moyenne": "15.40",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "518.00Validé",
+        "moyenne": "18.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N148039813",
+    "cin": "CD796644",
+    "email": "brahim.salih@usmba.ac.ma",
+    "nom": "SALIH BRAHIM",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N148039813.jpg",
+    "notes": [
+      {
+        "module": "Probabilités et statistiques",
+        "semestre": "30.50Rattrapage",
+        "moyenne": "0.50",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "55.12Rattrapage",
+        "moyenne": "5.12",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "54.50Rattrapage",
+        "moyenne": "4.50",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "54.25Rattrapage",
+        "moyenne": "4.25",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "58.86Rattrapage",
+        "moyenne": "8.86",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "58.10Rattrapage",
+        "moyenne": "8.10",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "515.00Validé",
+        "moyenne": "15.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "51.87Rattrapage",
+        "moyenne": "1.87",
+        "etat": "Rattrapage"
+      }
+    ]
+  },
+  {
+    "cne": "USMBA22111",
+    "cin": "G3465698",
+    "email": "mohammed.salisu@usmba.ac.ma",
+    "nom": "SALISU MOHAMMED",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/USMBA22111.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "58.25Rattrapage",
+        "moyenne": "8.25",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "56.62Rattrapage",
+        "moyenne": "6.62",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "54.18Rattrapage",
+        "moyenne": "4.18",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "55.75Rattrapage",
+        "moyenne": "5.75",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "517.00Validé",
+        "moyenne": "17.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "513.10Validé",
+        "moyenne": "13.10",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "520.00Validé",
+        "moyenne": "20.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "USMBA22015",
+    "cin": "RZ9491915",
+    "email": "hassanabdelaziz.sanoussi@usmba.ac.ma",
+    "nom": "SANOUSSI HASSAN ABDELAZIZ",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/USMBA22015.jpg",
+    "notes": [
+      {
+        "module": "Probabilités et statistiques",
+        "semestre": "313.00Validé",
+        "moyenne": "13.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Programmation Objet UML",
+        "semestre": "317.70Validé",
+        "moyenne": "17.70",
+        "etat": "Validé"
+      },
+      {
+        "module": "Langues",
+        "semestre": "315.50Validé",
+        "moyenne": "15.50",
+        "etat": "Validé"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "57.25Rattrapage",
+        "moyenne": "7.25",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "513.62Validé",
+        "moyenne": "13.62",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "59.60Rattrapage",
+        "moyenne": "9.60",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "511.00Validé",
+        "moyenne": "11.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "USMBA22168",
+    "cin": "B02617548",
+    "email": "yacine.sidahmedely@usmba.ac.ma",
+    "nom": "",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/USMBA22168.jpg",
+    "notes": []
+  },
+  {
+    "cne": "N120004911",
+    "cin": "CD793514",
+    "email": "marouane.souabni@usmba.ac.ma",
+    "nom": "SOUABNI MAROUANE",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N120004911.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "514.81Validé",
+        "moyenne": "14.81",
+        "etat": "Validé"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "512.50Validé",
+        "moyenne": "12.50",
+        "etat": "Validé"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "57.56Rattrapage",
+        "moyenne": "7.56",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "58.00Rattrapage",
+        "moyenne": "8.00",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "516.87Validé",
+        "moyenne": "16.87",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "512.30Validé",
+        "moyenne": "12.30",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "516.00Validé",
+        "moyenne": "16.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N142031896",
+    "cin": "CD792255",
+    "email": "mehdi.tazihnyine@usmba.ac.ma",
+    "nom": "TAZI HNYINE MEHDI",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N142031896.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "56.47Rattrapage",
+        "moyenne": "6.47",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "56.50Rattrapage",
+        "moyenne": "6.50",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "511.81Validé",
+        "moyenne": "11.81",
+        "etat": "Validé"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "53.50Rattrapage",
+        "moyenne": "3.50",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "516.25Validé",
+        "moyenne": "16.25",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "513.30Validé",
+        "moyenne": "13.30",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "520.00Validé",
+        "moyenne": "20.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "USMBA23156",
+    "cin": "EB749787",
+    "email": "yendouboamelouise.yentchabre@usmba.ac.ma",
+    "nom": "YENTCHABRE YENDOUBOAME LOUISE",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/USMBA23156.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "511.04Validé",
+        "moyenne": "11.04",
+        "etat": "Validé"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "512.62Validé",
+        "moyenne": "12.62",
+        "etat": "Validé"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "59.43Rattrapage",
+        "moyenne": "9.43",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "512.75Validé",
+        "moyenne": "12.75",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "516.87Validé",
+        "moyenne": "16.87",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "514.20Validé",
+        "moyenne": "14.20",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "513.00Validé",
+        "moyenne": "13.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N146040910",
+    "cin": "CD443669",
+    "email": "chaymae.zabraoui@usmba.ac.ma",
+    "nom": "ZABRAOUI CHAYMAE",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N146040910.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "54.00Rattrapage",
+        "moyenne": "4.00",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "57.12Rattrapage",
+        "moyenne": "7.12",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "515.37Validé",
+        "moyenne": "15.37",
+        "etat": "Validé"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "517.25Validé",
+        "moyenne": "17.25",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "516.87Validé",
+        "moyenne": "16.87",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "514.60Validé",
+        "moyenne": "14.60",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "515.00Validé",
+        "moyenne": "15.00",
+        "etat": "Validé"
+      }
+    ]
+  },
+  {
+    "cne": "N146055848",
+    "cin": "CD443669",
+    "email": "mohammed.zaim@usmba.ac.ma",
+    "nom": "",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N146055848.jpg",
+    "notes": []
+  },
+  {
+    "cne": "N120054379",
+    "cin": "CD968646",
+    "email": "abdelhamid.zdih@usmba.ac.ma",
+    "nom": "ZDIH ABDELHAMID",
+    "photo": "https://www.fsdm.usmba.ac.ma/Docs/Students/Cartes/2022/N120054379.jpg",
+    "notes": [
+      {
+        "module": "Réseaux Informatiques",
+        "semestre": "53.27Rattrapage",
+        "moyenne": "3.27",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Recherche Opérationnelle & Théorie De Graphes",
+        "semestre": "512.87Validé",
+        "moyenne": "12.87",
+        "etat": "Validé"
+      },
+      {
+        "module": "Programmation Java",
+        "semestre": "58.31Rattrapage",
+        "moyenne": "8.31",
+        "etat": "Rattrapage"
+      },
+      {
+        "module": "Théorie Des Langages Et Compilation",
+        "semestre": "514.00Validé",
+        "moyenne": "14.00",
+        "etat": "Validé"
+      },
+      {
+        "module": "Robotique et Systèmes Embarqués",
+        "semestre": "517.25Validé",
+        "moyenne": "17.25",
+        "etat": "Validé"
+      },
+      {
+        "module": "Technologie XML",
+        "semestre": "515.80Validé",
+        "moyenne": "15.80",
+        "etat": "Validé"
+      },
+      {
+        "module": "Anglais",
+        "semestre": "519.00Validé",
+        "moyenne": "19.00",
+        "etat": "Validé"
+      }
+    ]
+  }
+]
